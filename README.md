@@ -1,14 +1,14 @@
-🔐 SecureIntegrate – ServiceNow Project
+##🔐 SecureIntegrate – ServiceNow Project
 
 ---
 
-📌 Overview :-
+##📌 Overview :-
 
 A custom ServiceNow application to monitor, secure, and analyze third-party applications integrated with ServiceNow. Built to showcase end-to-end ServiceNow application development using APIs, monitoring modules, security rules, and reporting dashboards. SecureIntegrate ensures continuous protection by detecting malware, unauthorized changes, and suspicious activities while providing real-time alerts, dashboards, and automated workflows for incident management.
 
 ---
 
-🚀 Features :-
+##🚀 Features :-
 
 ● Continuous monitoring of third-party apps integrated with ServiceNow
 
@@ -24,7 +24,7 @@ A custom ServiceNow application to monitor, secure, and analyze third-party appl
 
 ---
 
-🔧 Tech Stack :-
+##🔧 Tech Stack :-
 
 ● Core Platform: ServiceNow
 
@@ -39,7 +39,7 @@ A custom ServiceNow application to monitor, secure, and analyze third-party appl
 ---
 
 
-⚙ Technical Implementation & Functional Breakdown :-
+##⚙ Technical Implementation & Functional Breakdown :-
 
 #SecureIntegrate – Securing Third-Party Integrations in Real Time
 
@@ -118,7 +118,7 @@ With SecureIntegrate, every connected application is continuously analyzed for h
 
 ---
 
-🎯 Use Cases :-
+##🎯 Use Cases :-
 
 ● Continuous monitoring of third-party applications integrated into ServiceNow
 
@@ -132,7 +132,7 @@ With SecureIntegrate, every connected application is continuously analyzed for h
 
 ---
 
-🏗 Installation / Setup :-
+##🏗 Installation / Setup :-
 
 -> If someone wants to try it:
 
@@ -144,7 +144,7 @@ With SecureIntegrate, every connected application is continuously analyzed for h
 
 ---
 
-📊 Future Enhancements :-
+##📊 Future Enhancements :-
 
 ● Anomaly and malware detection
 
@@ -156,6 +156,6 @@ With SecureIntegrate, every connected application is continuously analyzed for h
 
 ---
 
-✅ Conclusion :-
+##✅ Conclusion :-
 
 The SecureIntegrate Application demonstrates how the ServiceNow platform can be leveraged to deliver a real-world enterprise security solution. By combining APIs, custom tables, workflows, ACLs, and dashboards, the application transforms raw integration data into real-time security insights, ensuring organizations stay protected while extending ServiceNow with third-party apps.
